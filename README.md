@@ -146,3 +146,4 @@ To run TokenWise locally, follow these steps:
   * **User Authentication & Profiles:** Implement a user authentication system to enable personalized dashboards, saved wallet lists, and custom alerts.
   * **Performance Optimizations:** Further optimize database queries, API responses, and frontend rendering for even smoother performance with larger datasets.
 sizeupdate 
+update 
