@@ -145,3 +145,4 @@ To run TokenWise locally, follow these steps:
   * **Multi-Token Support:** Allow users to dynamically add and monitor multiple SPL token contracts through the UI.
   * **User Authentication & Profiles:** Implement a user authentication system to enable personalized dashboards, saved wallet lists, and custom alerts.
   * **Performance Optimizations:** Further optimize database queries, API responses, and frontend rendering for even smoother performance with larger datasets.
+sizeupdate 
